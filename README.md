@@ -36,27 +36,50 @@ An end-to-end data analytics project using the Olist Brazilian E-Commerce datase
 - Built a 6-page interactive Power BI dashboard
 - Generated business insights for customers, products, sellers, and orders
 
-## Power BI Dashboard
+## Featured Project
 
-### Executive Dashboard
-![Executive Dashboard](./screenshots/Screenshot%202026-07-25%20132637.png)
+### Brazilian E-Commerce Analytics (Olist)
 
-### Customer Analysis
-![Customer Analysis](./screenshots/Screenshot%202026-07-25%20133039.png)
+An end-to-end data analytics project using PostgreSQL, Python, Power BI, and Excel.
 
-### Product Analysis
-![Product Analysis](./screenshots/Screenshot%202026-07-25%20133110.png)
+🔗 **View the complete project here:**
+https://github.com/SUNANDA770/olist-sql-ecommerce-analysis
+[Brazilian E-Commerce Analytics Repository](https://github.com/SUNANDA770/olist-sql-ecommerce-analysis)
+## Project Workflow
 
-### Seller Analysis
-![Seller Analysis](./screenshots/Screenshot%202026-07-25%20133144.png)
+- Data Collection
+- Data Cleaning
+- SQL Data Analysis
+- Python Exploratory Data Analysis
+- Power BI Dashboard Development
+- Business Insights & Recommendations
+- GitHub Documentation
 
-### Order Analysis
-![Order Analysis](./screenshots/Screenshot%202026-07-25%20133212.png)
+## Key Business Insights
 
-### Business Insights
-![Business Insights](./screenshots/Screenshot%202026-07-25%20133308.png)
+- Identified the top-performing product categories by revenue.
+- Analyzed customer distribution across Brazilian states.
+- Evaluated seller performance using revenue and order volume.
+- Explored order delivery performance and customer satisfaction.
+- Built executive dashboards to support business decision-making.
 
-### Repository
+## Repository Structure
 
-➡️ [Brazilian E-Commerce Analytics](YOUR_REPOSITORY_LINK)
+```
+📂 data_analyst_portfolio
+│── README.md
+│── sql/
+│── notebooks/
+│── screenshots/
+│── data/
+│── LICENSE
+└── .gitignore
+```
 
+## Contact
+
+**Sunanda Rajput**
+
+- 📍 Berlin, Germany
+- 💼 LinkedIn: www.linkedin.com/in/sunandarajput
+- 📧 Email: sunanda.rajput25283@gmail.com
