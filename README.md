@@ -1,33 +1,42 @@
-# Data Analyst Portfolio -SUN
-Welcome to my data analyst portfolio.
+# Data Analyst Portfolio
 
-This repository will contains my data analysis projects as I learn and apply data analytics tools step by step,
-starting with Excel and gradually moving to Python,SQL and Data visualization tools.
+Hi, I'm Sunanda, an aspiring Data Analyst based in Berlin, Germany.
 
-## Objective
-To build strong data analysis fundamentals by working on real-world datasets and creating end-to-end projects 
-that demonstrate analytical thinking and problem-solving skills.
+This portfolio showcases my end-to-end data analytics projects using real-world datasets. Each project demonstrates the complete analytics workflow—from SQL data exploration and Python analysis to Power BI dashboards and business insights.
 
-## Tools & Skills
--Microsoft Excel
--Data Cleaning & Analysis 
--Pivot tables & Charts 
--Business Insights & Reporting 
-(More tools will be added as i progress.)
+## Skills
 
-## Projects 
-This portfolio is currently under development.
-Projects will be added in the follwing order:
-1. Sales Analysis using Excel (In progress)
-2. Sales Analysis using Python
-3. Sales Analysis usin SQL
-4. Interactive Dashboard
+- SQL (PostgreSQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- Microsoft Excel
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Git & GitHub
+- Business Intelligence
 
-## Status 
-portfolio under active development
+- ## Featured Project
 
-##Author 
-Sunanda
-Aspiring Data Analyst
+# Brazilian E-Commerce Analytics (Olist)
 
+An end-to-end data analytics project using the Olist Brazilian E-Commerce dataset.
+
+### Tools Used
+- PostgreSQL
+- Python
+- Power BI
+- Microsoft Excel
+- Git & GitHub
+
+### Key Highlights
+- Analyzed 100k+ e-commerce orders
+- Wrote 40 business-focused SQL queries
+- Performed Python EDA using Pandas and Matplotlib
+- Built a 6-page interactive Power BI dashboard
+- Generated business insights for customers, products, sellers, and orders
+
+### Repository
+
+➡️ [Brazilian E-Commerce Analytics](YOUR_REPOSITORY_LINK)
 
