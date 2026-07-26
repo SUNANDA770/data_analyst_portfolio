@@ -36,6 +36,26 @@ An end-to-end data analytics project using the Olist Brazilian E-Commerce datase
 - Built a 6-page interactive Power BI dashboard
 - Generated business insights for customers, products, sellers, and orders
 
+## Power BI Dashboard
+
+### Executive Dashboard
+![Executive Dashboard](./screenshots/Screenshot%202026-07-25%20132637.png)
+
+### Customer Analysis
+![Customer Analysis](./screenshots/Screenshot%202026-07-25%20133039.png)
+
+### Product Analysis
+![Product Analysis](./screenshots/Screenshot%202026-07-25%20133110.png)
+
+### Seller Analysis
+![Seller Analysis](./screenshots/Screenshot%202026-07-25%20133144.png)
+
+### Order Analysis
+![Order Analysis](./screenshots/Screenshot%202026-07-25%20133212.png)
+
+### Business Insights
+![Business Insights](./screenshots/Screenshot%202026-07-25%20133308.png)
+
 ### Repository
 
 ➡️ [Brazilian E-Commerce Analytics](YOUR_REPOSITORY_LINK)
