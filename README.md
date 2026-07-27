@@ -43,9 +43,7 @@ An end-to-end data analytics project using the Olist Brazilian E-Commerce datase
 An end-to-end data analytics project using PostgreSQL, Python, Power BI, and Excel.
 
 🔗 **View the complete project here:**
-https://github.com/SUNANDA770/olist-sql-ecommerce-analysis
 [Brazilian E-Commerce Analytics Repository](https://github.com/SUNANDA770/olist-sql-ecommerce-analysis)
-## Project Workflow
 
 - Data Collection
 - Data Cleaning
@@ -75,6 +73,13 @@ https://github.com/SUNANDA770/olist-sql-ecommerce-analysis
 │── LICENSE
 └── .gitignore
 ```
+## 🛠️ Tech Stack
+
+- SQL (PostgreSQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- Microsoft Excel
+- Git & GitHub
 
 ## Contact
 
